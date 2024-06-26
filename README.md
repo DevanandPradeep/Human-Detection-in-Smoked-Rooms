@@ -4,7 +4,6 @@ Detecting humans in environments filled with smoke is a critical challenge durin
 
 ## Summary
 
-In this project,
 ### Utilized YOLOv5 and PyTorch to detect humans in smoked rooms, enhancing detection in low-visibility conditions. 
 ### Used PIL and Matplotlib for image preprocessing, augmentation, and visualization for effective model training.
 ### Combined fire scene and house room datasets, adding synthetic smoke using OpenCV to improve model robustness
